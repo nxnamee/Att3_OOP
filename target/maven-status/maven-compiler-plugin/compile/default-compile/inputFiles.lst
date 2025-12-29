@@ -1,0 +1,15 @@
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/App.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/Board.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/Dice.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/Game.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/GameConfig.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/GameResult.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/Move.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/PlayerColor.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/PositionType.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/TokenId.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/TokenPosition.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/core/TurnOutcome.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/ui/BoardPanel.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/ui/LudoController.java
+/home/strunder/Документы/artem/src/main/java/ru/artem/ludo/ui/LudoFrame.java
