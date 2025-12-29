@@ -17,4 +17,4 @@ mvn -q exec:java
 ```
 
 ## Видео-демонстрация
-Ссылка на видео : **ВСТАВИТЬ_ССЫЛКУ_СЮДА**
+Ссылка на видео : [**ВСТАВИТЬ_ССЫЛКУ_СЮДА**](https://drive.google.com/file/d/1lUUNheO8CskMJI9QGaivyh5FlrbsGVgq/view?usp=vids_web)
